@@ -1,0 +1,52 @@
+body {
+    height: 100vh;
+}
+
+main {
+    background-color: #eee;
+    height: 88%;
+}
+
+header {
+    height: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer {
+    height: 4%
+}
+
+.header__left {
+    display: flex;
+    margin-left: 45px;
+    font-size: 15px;
+}
+
+.header__logo {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.header__item-link {
+    background: none;
+    border: none;
+    color: inherit;
+    font-size: 15px;
+    text-decoration: none;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+.footer__item {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer__text {
+    display: block;
+    font-weight: bold;
+}

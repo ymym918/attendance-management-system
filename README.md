@@ -1,6 +1,6 @@
 # Atte(勤怠管理システム)
 Atteは社員ごとに勤怠管理ができるアプリケーションです。</br>
-![ホーム画面](https://github.com/user-attachments/assets/abd303c1-0604-44de-af51-0ca9fdeca1b1)
+![ホーム画面](https://github.com/user-attachments/assets/a707735c-a000-46f2-9924-ab83d24a37de)
 ## 作成した目的
 実践に近い開発経験をつむため作成しました。
 ## アプリケーションURL
@@ -13,11 +13,11 @@ Atteは社員ごとに勤怠管理ができるアプリケーションです。<
 - Laravel 8.83.27
 - MySQL 8.3.0
 ## テーブル設計
-![Atte テーブル設計](https://github.com/ymym918/attendance-management-system/assets/159745774/acbad398-0146-4d87-8f4e-f871ce287d53)
+![Atte   ユースケース図  - テーブル設計](https://github.com/user-attachments/assets/9cb12eb2-7d2c-404b-b5fc-60fa36e79e1d)
 ## ER図
-<img width="841" alt="Atte  ER図" src="https://github.com/ymym918/attendance-management-system/assets/159745774/c4aad841-3151-40a8-aaa7-54dafe9483f6">
+<img width="841" alt="Atte  ER図" src="https://github.com/user-attachments/assets/e6c3aba4-0c41-4df3-b193-ae9eb15db827"></br>
 
-## 環境構築
+## 環境構築</br>
 **Dockerビルド**
 1. `git clone git@github.com:estra-inc/confirmation-test-contact-form.git`
 2. DockerDesktopアプリを立ち上げる
@@ -61,4 +61,3 @@ php artisan db:seed
 ## URL
 - 開発環境　　：http://localhost/
 - phpMyAdmin：http://localhost:8080/
-# attendance-management-system

@@ -19,7 +19,7 @@ Atteは社員ごとに勤怠管理ができるアプリケーションです。<
 
 ## 環境構築</br>
 **Dockerビルド**
-1. `git clone git@github.com:estra-inc/confirmation-test-contact-form.git`
+1. `git clone git@github.com/ymym918/attendance-management-system.git`
 2. DockerDesktopアプリを立ち上げる
 3. `docker-compose up -d --build`
 
